@@ -1,3 +1,5 @@
+Inmpervious surface (IS) and tree cover change around Chicago
+
 All Chicago land cover change datasets are RASTER format stored in GeoTIFF format at 30 meter spatial resolution. Map projection is UTM Zone 16N (EPSG:32616).
 
 RELATED PUBLICATIONS:
